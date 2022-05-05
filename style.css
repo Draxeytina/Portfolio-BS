@@ -45,6 +45,10 @@
   transform: rotate(45deg);
 }
 
+footer h2 {
+  display: none;
+}
+
 @media screen and (max-width: 768px) {
   .headline {
     flex-direction: column;
